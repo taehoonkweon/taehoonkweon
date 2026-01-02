@@ -34,7 +34,7 @@
       <img src="https://skillicons.dev/icons?i=docker,linux,git,mysql&theme=dark" />
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" />
     </td>
   </tr>
 </table>
